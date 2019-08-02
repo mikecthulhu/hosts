@@ -6,3 +6,5 @@ sudo cp gravity.list ~/
 scp gravity
 replace 192.168.x.x for 127.0.0.1
 save hosts and upload
+
+
