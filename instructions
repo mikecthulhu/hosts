@@ -1,5 +1,5 @@
 
-
+# to get list from pihole and edit to be able to put it on github
 connect to pi
 cd /etc/pihole/
 sudo cp gravity.list ~/
@@ -7,4 +7,12 @@ scp gravity
 replace 192.168.x.x for 127.0.0.1
 save hosts and upload
 
+# to get updates from github to local branch
+git checkout master
+git merge upstream/master
 
+# to push updates from local branch to github
+git add filename
+git status 
+git commit -m "comment regarding commit" filename
+git push -u origin master
