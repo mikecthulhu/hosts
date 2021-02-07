@@ -17,26 +17,6 @@ grafthivecrocus.cam
 feed-5635.coderformylife.info
 coderformylife.info
 www.coderformylife.info
-# added on 12/27/2020
-#1771968717.rsc.cdn77.org
-#23-ak-df9fb22a88ad420abf8c365738dd37cb.vip2-iad1.dlvr1.net
-#25-ak-df9fb22a88ad420abf8c365738dd37cb.vip2-lga1.dlvr1.net
-#25-fa-df9fb22a88ad420abf8c365738dd37cb.vip2-mia1.dlvr1.net
-#an.facebook.com
-#api.mapbox.com
-#beacons-dual-808847889.us-east-1.elb.amazonaws.com
-#content.businessinfoline.com
-#dntcl.qualaroo.com
-#ellation.map.fastly.net
-#fy.v.vrv.co
-#pcva3.manifest.auditude.com
-#scone-pa.clients6.google.com
-#static.vrv.co
-#tile-service.weather.microsoft.com
-#vrv-eec.etp-prod.com
-#ytstatic.l.google.com
-#api.segment.io
-#segment.io
 # added on 12/03/2020
 atinterboa.space
 hfel8.atinterboa.space
@@ -138,469 +118,471 @@ em.licasd.com
 www.licasd.com
 licasd.com
 # added on 05/19/2020
-0.0.0.0	a.sportradarserving.com
-0.0.0.0	a1895.dscd.akamai.net
-0.0.0.0	a3964.casalemedia.com
-0.0.0.0	a4052.casalemedia.com
-0.0.0.0	ad.mrtnsvr.com
-0.0.0.0	adpaths.com
-0.0.0.0	api.omappapi.com
-0.0.0.0	cdn.ampproject.org
-0.0.0.0	cdn.jsdelivr.net
-0.0.0.0	cdn.mos.cms.futurecdn.net
-0.0.0.0	crt.sectigo.com
-0.0.0.0	j.mrpdata.net
-0.0.0.0	lfodown01-b.cloudsink.net
-0.0.0.0	m.fg8dgt.com
-0.0.0.0	medialb.ultimedia.com
-0.0.0.0	play.adpaths.com
-0.0.0.0	rtb2-useast.e-volution.ai
-0.0.0.0	sportradarserving.com
-0.0.0.0	srv-2020-05-19-22.pixel.parsely.com
-0.0.0.0	static-cdn.spott.ai
-0.0.0.0	subscription.omnithrottle.com
-0.0.0.0	sync.resetdigital.co
-0.0.0.0	sync.targeting.unrulymedia.com
-0.0.0.0	targeting.unrulymedia.com
-0.0.0.0	u.ipw.metadsp.co.uk
-0.0.0.0	unpkg.com
-0.0.0.0	unrulymedia.com
-0.0.0.0	vanilla.futurecdn.net
-0.0.0.0	visitor.fiftyt.com
-0.0.0.0	www.adpaths.com
-0.0.0.0	www.sportradarserving.com
-0.0.0.0	www.unrulymedia.com
+a.sportradarserving.com
+a1895.dscd.akamai.net
+a3964.casalemedia.com
+a4052.casalemedia.com
+ad.mrtnsvr.com
+adpaths.com
+api.omappapi.com
+cdn.ampproject.org
+cdn.jsdelivr.net
+cdn.mos.cms.futurecdn.net
+crt.sectigo.com
+j.mrpdata.net
+lfodown01-b.cloudsink.net
+m.fg8dgt.com
+medialb.ultimedia.com
+play.adpaths.com
+rtb2-useast.e-volution.ai
+sportradarserving.com
+srv-2020-05-19-22.pixel.parsely.com
+static-cdn.spott.ai
+subscription.omnithrottle.com
+sync.resetdigital.co
+sync.targeting.unrulymedia.com
+targeting.unrulymedia.com
+u.ipw.metadsp.co.uk
+unpkg.com
+unrulymedia.com
+vanilla.futurecdn.net
+visitor.fiftyt.com
+www.adpaths.com
+www.sportradarserving.com
+www.unrulymedia.com
 # added on 05/12/2020
-0.0.0.0	cdn.truenotify.in
-0.0.0.0	www.truenotify.in
-0.0.0.0	truenotify.in
-0.0.0.0	ads.avct.cloud
-0.0.0.0	www.spagat.space
-0.0.0.0	spagat.space
-0.0.0.0	www.bestanimegame.com
-0.0.0.0	bestanimegame.com
-0.0.0.0	sync.zebestof.com
-0.0.0.0	www.zebestof.com
-0.0.0.0	zebestof.com
-0.0.0.0	www.e-volution.ai
-0.0.0.0	e-volution.ai
-0.0.0.0	www.avct.cloud
-0.0.0.0	avct.cloud
-0.0.0.0	rtb.adstanding.com
-0.0.0.0	www.adstanding.com
-0.0.0.0	adstanding.com
-0.0.0.0	momagic.com
-0.0.0.0	www.momagic.com
-0.0.0.0	tracks.momagic.com
-0.0.0.0	www.advangelists.com
-0.0.0.0	nep.advangelists.com
-0.0.0.0	advangelists.com
-0.0.0.0	pixelb96c1940de8333b.advangelists.com
-0.0.0.0	pixele684c3d950082d5.advangelists.com
-0.0.0.0	pixel-fe9fe1b7437b501.advangelists.com
-0.0.0.0	pixel7fd32e6f83ec900.advangelists.com
+cdn.truenotify.in
+www.truenotify.in
+truenotify.in
+ads.avct.cloud
+www.spagat.space
+spagat.space
+www.bestanimegame.com
+bestanimegame.com
+sync.zebestof.com
+www.zebestof.com
+zebestof.com
+www.e-volution.ai
+e-volution.ai
+www.avct.cloud
+avct.cloud
+rtb.adstanding.com
+www.adstanding.com
+adstanding.com
+momagic.com
+www.momagic.com
+tracks.momagic.com
+www.advangelists.com
+nep.advangelists.com
+advangelists.com
+pixelb96c1940de8333b.advangelists.com
+pixele684c3d950082d5.advangelists.com
+pixel-fe9fe1b7437b501.advangelists.com
+pixel7fd32e6f83ec900.advangelists.com
 # added on 05/07/2020
-0.0.0.0	javpornhd.xyz
-0.0.0.0	autoryromage.club
-0.0.0.0	www.googleadservices.com
-0.0.0.0	cdn.thisiswaldo.com
-0.0.0.0	adservice.google.com.mx
-0.0.0.0	www.stimmtso.space
-0.0.0.0	stimmtso.space
-0.0.0.0	static.exdynsrv.com
-0.0.0.0	main.exdynsrv.com
-0.0.0.0	www.exdynsrv.com
-0.0.0.0	m.exdynsrv.com
-0.0.0.0	exdynsrv.com
+javpornhd.xyz
+autoryromage.club
+www.googleadservices.com
+cdn.thisiswaldo.com
+adservice.google.com.mx
+www.stimmtso.space
+stimmtso.space
+static.exdynsrv.com
+main.exdynsrv.com
+www.exdynsrv.com
+m.exdynsrv.com
+exdynsrv.com
 # added on 04/30/2020
-0.0.0.0	www.nerve.eshkol.io
-0.0.0.0	nerve.eshkol.io
-0.0.0.0	www.velocecdn.com
-0.0.0.0	velocecdn.com
-0.0.0.0	www.online.codere.mx
-0.0.0.0	online.codere.mx
-0.0.0.0	www.promo.codere.mx
-0.0.0.0	promo.codere.mx
-0.0.0.0	www.expresvpn-private-analytics.net
-0.0.0.0	expresvpn-private-analytics.net
-0.0.0.0	www.get-express-vpn.com
-0.0.0.0	get-express-vpn.com
-0.0.0.0	www.onclickgenius.com
-0.0.0.0	onclickgenius.com
-0.0.0.0	metosk.com
+www.nerve.eshkol.io
+nerve.eshkol.io
+www.velocecdn.com
+velocecdn.com
+www.online.codere.mx
+online.codere.mx
+www.promo.codere.mx
+promo.codere.mx
+www.expresvpn-private-analytics.net
+expresvpn-private-analytics.net
+www.get-express-vpn.com
+get-express-vpn.com
+www.onclickgenius.com
+onclickgenius.com
+metosk.com
 # added on 04/24/2020
-0.0.0.0	www.thisiswaldo.com
-0.0.0.0	thisiswaldo.com
-0.0.0.0	sharedid.org
-0.0.0.0	id.sharedid.org
-0.0.0.0	www.sharedid.org
-0.0.0.0	cdnlw.pampaporno.com
-0.0.0.0	pics.pampaporno.com
-0.0.0.0	user.pampaporno.com
-0.0.0.0	www.pampaporno.com
-0.0.0.0	pampaporno.com
-0.0.0.0	xhamsterlive.com
-0.0.0.0	www.xhamsterlive.com
-0.0.0.0	es.xhamster.com
-0.0.0.0	www.xhamster.com
-0.0.0.0	static-lvlt.xhcdn.com
+www.thisiswaldo.com
+thisiswaldo.com
+sharedid.org
+id.sharedid.org
+www.sharedid.org
+cdnlw.pampaporno.com
+pics.pampaporno.com
+user.pampaporno.com
+www.pampaporno.com
+pampaporno.com
+xhamsterlive.com
+www.xhamsterlive.com
+es.xhamster.com
+www.xhamster.com
+static-lvlt.xhcdn.com
 # added on 04/18/2020
-0.0.0.0	agafurretor.com
-0.0.0.0	static.agafurretor.com
-0.0.0.0	www.agafurretor.com
-0.0.0.0	m.agafurretor.com
-0.0.0.0	c.ptgncdn.com
-0.0.0.0	m.spankbang.com
-0.0.0.0	www.spankbang.com
-0.0.0.0	spankbang.com
-0.0.0.0	static.spankbang.com
-0.0.0.0	neaintrolled.info
-0.0.0.0	m.caliente.mx
-0.0.0.0	m.redwap.me
+agafurretor.com
+static.agafurretor.com
+www.agafurretor.com
+m.agafurretor.com
+c.ptgncdn.com
+m.spankbang.com
+www.spankbang.com
+spankbang.com
+static.spankbang.com
+neaintrolled.info
+m.caliente.mx
+m.redwap.me
 # added on 04/15/2020
-0.0.0.0	static.caliente.mx
+static.caliente.mx
 # added on 04/03/2020
-0.0.0.0	videosxxxporno.xxx
-0.0.0.0	3360202.notifysrv.com
+videosxxxporno.xxx
+3360202.notifysrv.com
 # added on 03/27/2020
-0.0.0.0	static.redwap-cdn.com
-0.0.0.0	www.redwap.me
-0.0.0.0	redwap.me
+static.redwap-cdn.com
+www.redwap.me
+redwap.me
 # added on 03/20/2020
-0.0.0.0	japornhd.xyz
+japornhd.xyz
 # added on 03/14/2020
-0.0.0.0	bzxmgyfae.com
-0.0.0.0	b6b4rhsbdawj.com
-0.0.0.0	rsl2dd0twlym.com
-0.0.0.0	es54i9g7p7xh.com
-0.0.0.0	nerve.eshkol.io
-0.0.0.0	redpiraat.net
-0.0.0.0	0klxjejyxak3.com
-0.0.0.0	kuiken.in
-0.0.0.0	caliente.mx
-0.0.0.0	www.caliente.mx
-0.0.0.0	lp.ilividnewtab.com
-0.0.0.0	adstract.adk2x.com
-0.0.0.0	smartprofits.org
-0.0.0.0	serve.adplxmd.com
-0.0.0.0	quickprofitssystem.co
-0.0.0.0	vortex.data.microsoft.com
-0.0.0.0	vortex-win.data.microsoft.com
-0.0.0.0	telecommand.telemetry.microsoft.com
-0.0.0.0	telecommand.telemetry.microsoft.com.nsatc.net
-0.0.0.0	oca.telemetry.microsoft.com
-0.0.0.0	oca.telemetry.microsoft.com.nsatc.net
-0.0.0.0	sqm.telemetry.microsoft.com
-0.0.0.0	sqm.telemetry.microsoft.com.nsatc.net
-0.0.0.0	watson.telemetry.microsoft.com
-0.0.0.0	watson.telemetry.microsoft.com.nsatc.net
-0.0.0.0	redir.metaservices.microsoft.com
-0.0.0.0	choice.microsoft.com
-0.0.0.0	choice.microsoft.com.nsatc.net
-0.0.0.0	df.telemetry.microsoft.com
-0.0.0.0	reports.wes.df.telemetry.microsoft.com
-0.0.0.0	wes.df.telemetry.microsoft.com
-0.0.0.0	services.wes.df.telemetry.microsoft.com
-0.0.0.0	sqm.df.telemetry.microsoft.com
-0.0.0.0	telemetry.microsoft.com
-0.0.0.0	watson.ppe.telemetry.microsoft.com
-0.0.0.0	telemetry.appex.bing.net
-0.0.0.0	telemetry.urs.microsoft.com
-0.0.0.0	telemetry.appex.bing.net
-0.0.0.0	settings-sandbox.data.microsoft.com
-0.0.0.0	vortex-sandbox.data.microsoft.com
-0.0.0.0	survey.watson.microsoft.com
-0.0.0.0	watson.live.com
-0.0.0.0	watson.microsoft.com
-0.0.0.0	statsfe2.ws.microsoft.com
-0.0.0.0	corpext.msitadfs.glbdns2.microsoft.com
-0.0.0.0	compatexchange.cloudapp.net
-0.0.0.0	cs1.wpc.v0cdn.net
-0.0.0.0	a-0001.a-msedge.net
-0.0.0.0	statsfe2.update.microsoft.com.akadns.net
-0.0.0.0	sls.update.microsoft.com.akadns.net
-0.0.0.0	fe2.update.microsoft.com.akadns.net
-0.0.0.0	diagnostics.support.microsoft.com
-0.0.0.0	corp.sts.microsoft.com
-0.0.0.0	statsfe1.ws.microsoft.com
-0.0.0.0	pre.footprintpredict.com
-0.0.0.0	i1.services.social.microsoft.com
-0.0.0.0	i1.services.social.microsoft.com.nsatc.net
-0.0.0.0	feedback.windows.com
-0.0.0.0	feedback.microsoft-hohm.com
-0.0.0.0	feedback.search.microsoft.com
+bzxmgyfae.com
+b6b4rhsbdawj.com
+rsl2dd0twlym.com
+es54i9g7p7xh.com
+nerve.eshkol.io
+redpiraat.net
+0klxjejyxak3.com
+kuiken.in
+caliente.mx
+www.caliente.mx
+lp.ilividnewtab.com
+adstract.adk2x.com
+smartprofits.org
+serve.adplxmd.com
+quickprofitssystem.co
+vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+telecommand.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com.nsatc.net
+oca.telemetry.microsoft.com
+oca.telemetry.microsoft.com.nsatc.net
+sqm.telemetry.microsoft.com
+sqm.telemetry.microsoft.com.nsatc.net
+watson.telemetry.microsoft.com
+watson.telemetry.microsoft.com.nsatc.net
+redir.metaservices.microsoft.com
+choice.microsoft.com
+choice.microsoft.com.nsatc.net
+df.telemetry.microsoft.com
+reports.wes.df.telemetry.microsoft.com
+wes.df.telemetry.microsoft.com
+services.wes.df.telemetry.microsoft.com
+sqm.df.telemetry.microsoft.com
+telemetry.microsoft.com
+watson.ppe.telemetry.microsoft.com
+telemetry.appex.bing.net
+telemetry.urs.microsoft.com
+telemetry.appex.bing.net
+settings-sandbox.data.microsoft.com
+vortex-sandbox.data.microsoft.com
+survey.watson.microsoft.com
+watson.live.com
+watson.microsoft.com
+statsfe2.ws.microsoft.com
+corpext.msitadfs.glbdns2.microsoft.com
+compatexchange.cloudapp.net
+cs1.wpc.v0cdn.net
+a-0001.a-msedge.net
+statsfe2.update.microsoft.com.akadns.net
+sls.update.microsoft.com.akadns.net
+fe2.update.microsoft.com.akadns.net
+diagnostics.support.microsoft.com
+corp.sts.microsoft.com
+statsfe1.ws.microsoft.com
+pre.footprintpredict.com
+i1.services.social.microsoft.com
+i1.services.social.microsoft.com.nsatc.net
+feedback.windows.com
+feedback.microsoft-hohm.com
+feedback.search.microsoft.com
 # added on 03/13/2020
-0.0.0.0	xtrapath1.izatcloud.net
-0.0.0.0	xtrapath3.izatcloud.net
-0.0.0.0	xtrapath2.izatcloud.net
+xtrapath1.izatcloud.net
+xtrapath3.izatcloud.net
+xtrapath2.izatcloud.net
 # added on 03/06/2020
-0.0.0.0	helpcmqp0.ksmobile.com
-0.0.0.0	m.perfectgirls.net
-0.0.0.0	ok.xxx
-0.0.0.0	perridainti.pro
-0.0.0.0	redirector.gvt1.com
-0.0.0.0	s.w-x.co
-0.0.0.0	wwclickads.club
-0.0.0.0	wwserch44.biz
-0.0.0.0	znewswork.com
-0.0.0.0	pushimg.com
+helpcmqp0.ksmobile.com
+ok.xxx
+perridainti.pro
+redirector.gvt1.com
+s.w-x.co
+wwclickads.club
+wwserch44.biz
+znewswork.com
+pushimg.com
 # added on 02/28/2020
-0.0.0.0	jucysh.com
-0.0.0.0	clipx16.com
+jucysh.com
+clipx16.com
 # added on 02/27/2020
-0.0.0.0	epdg.epc.mnc410.mcc310.pub.3gppnetwork.org
-0.0.0.0	epdg.epc.mnc090.mcc334.pub.3gppnetwork.org
+epdg.epc.mnc410.mcc310.pub.3gppnetwork.org
+epdg.epc.mnc090.mcc334.pub.3gppnetwork.org
 # added on 02/25/2020
-0.0.0.0	epdg.epc.mnc020.mcc334.pub.3gppnetwork.org
-0.0.0.0	epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+epdg.epc.mnc020.mcc334.pub.3gppnetwork.org
+epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 # added on 02/23/2020
-0.0.0.0	3gppnetwork.org
-0.0.0.0	adobviewe.club
-0.0.0.0	midland.logs.roku.com
-0.0.0.0	xml.auxml.com
-0.0.0.0	sageobscursingm.info
-0.0.0.0	dls1prd.di.atlas.samsung.com
-0.0.0.0	d.adobviewe.club
-0.0.0.0	a.adobviewe.club
-0.0.0.0	b.adobviewe.club
-0.0.0.0	c.adobviewe.club
-0.0.0.0	ofhappinyer.com
-0.0.0.0	lulachu.com
-0.0.0.0	ugyplysh.com
-0.0.0.0	mobilseeombure.pro
-0.0.0.0	r.adport.io
+3gppnetwork.org
+adobviewe.club
+midland.logs.roku.com
+xml.auxml.com
+sageobscursingm.info
+dls1prd.di.atlas.samsung.com
+d.adobviewe.club
+a.adobviewe.club
+b.adobviewe.club
+c.adobviewe.club
+ofhappinyer.com
+lulachu.com
+ugyplysh.com
+mobilseeombure.pro
+r.adport.io
 # added on 01/30/2020
-0.0.0.0	topblockchainsolutions.nl
+topblockchainsolutions.nl
 # original
-0.0.0.0	www.xxxcom.co
-0.0.0.0	whatsapp-cores.co
-0.0.0.0	ahhls.porn.es
-0.0.0.0	ahhttp.porn.es
-0.0.0.0	assets.porn.es
-0.0.0.0	dc1.porn.es
-0.0.0.0	m.perfectgirls.es
-0.0.0.0	m3u8.porn.es
-0.0.0.0	mahhttpr.porn.es
-0.0.0.0	mrfhahttpr.porn.es
-0.0.0.0	plx.porn.es
-0.0.0.0	porn.es
-0.0.0.0	rfhahls.porn.es
-0.0.0.0	rfhahttp.porn.es
-0.0.0.0	static-push.porn.es
-0.0.0.0	tahhttpr.porn.es
-0.0.0.0	trfhahttpr.porn.es
-0.0.0.0	videoassets.porn.es
-0.0.0.0	videos.porn.es
-0.0.0.0	static.lp.sexyadults.eu
-0.0.0.0	smart.tubeadvertising.eu
-0.0.0.0	www.xvideos.in
-0.0.0.0	yesporn.me
-0.0.0.0	videosxxxlospacks.blogspot.mx
-0.0.0.0	www.fotosxxx.mx
-0.0.0.0	www.videosxxxcaseros.com.mx
-0.0.0.0	www.borrachas.com.mx
-0.0.0.0	www.c-date.com.mx
-0.0.0.0	www.culioneros.com.mx
-0.0.0.0	www.emperijoyada.com.mx
-0.0.0.0	payment.android.fk.derkeg.ru
-0.0.0.0	sexporntube.us
-0.0.0.0	mp4porn.us
-0.0.0.0	pornocolombiano.com.ve
-0.0.0.0	uncensored.game
-0.0.0.0	click.dl-now.app
-0.0.0.0	click.trackmob.app
-0.0.0.0	sex-blast.date
-0.0.0.0	pornl1.kayparkersex.com
-0.0.0.0	images.sex.com
-0.0.0.0	mx.mundosexanuncio.com
-0.0.0.0	quick-sex.com
-0.0.0.0	screenshots.anysex.com
-0.0.0.0	sexbook.com
-0.0.0.0	static.mundosexanuncio.com
-0.0.0.0	static1.mundosexanuncio.com
-0.0.0.0	static2.mundosexanuncio.com
-0.0.0.0	tdsjsext3.com
-0.0.0.0	www.sexcoolture.com
-0.0.0.0	zoosexfarm.com
-0.0.0.0	1.letmejerk.com
-0.0.0.0	4118076059967.visporn.com
-0.0.0.0	4749581478536.visporn.com
-0.0.0.0	8302175136271.visporn.com
-0.0.0.0	8771344497799.visporn.com
-0.0.0.0	acdn.pornlib.com
-0.0.0.0	anyxxx.com
-0.0.0.0	bingoporno.com
-0.0.0.0	cdn1.pornaq.com
-0.0.0.0	cdn-d-img.pornhub.com
-0.0.0.0	cdne-st.redtubefiles.com
-0.0.0.0	cdnh1.porndoe.com
-0.0.0.0	cdn-img1.pornoeggs.com
-0.0.0.0	cdn-l.pornstarblognetwork.com
-0.0.0.0	cdnlw4.serviporno.com
-0.0.0.0	cdnlw5.serviporno.com
-0.0.0.0	cdnlw6.serviporno.com
-0.0.0.0	cdnlw8.serviporno.com
-0.0.0.0	cdnlw9.serviporno.com
-0.0.0.0	embed.redtube.com
-0.0.0.0	entrance1.xxxy.dayukeji.com
-0.0.0.0	entrance2.xxxy.dayukeji.com
-0.0.0.0	es.bravoporn.com
-0.0.0.0	es.pornhub.com
-0.0.0.0	es.pornhubpremium.com
-0.0.0.0	es.redtube.com
-0.0.0.0	foreign.xxxy.dayukeji.com
-0.0.0.0	free3dadultgames.com
-0.0.0.0	hubt.pornhub.com
-0.0.0.0	i.canalporno.com
-0.0.0.0	i.diverporno.com
-0.0.0.0	i.hulaporn.com
-0.0.0.0	i.mileporn.com
-0.0.0.0	i.porn300.com
-0.0.0.0	i.porndroids.com
-0.0.0.0	i.pornfuror.com
-0.0.0.0	i.pornglee.com
-0.0.0.0	i.porngray.com
-0.0.0.0	i.texporno.com
-0.0.0.0	i.tribuporno.com
-0.0.0.0	i.villaporno.com
-0.0.0.0	iframe2.adxxx.com
-0.0.0.0	images.galleries.pornpros.com
-0.0.0.0	img4.subirporno.com
-0.0.0.0	imggen.eporner.com
-0.0.0.0	ipornia.com
-0.0.0.0	ipornia1.johnholmespenis.com
-0.0.0.0	ipornia1.johnleslieporn.com
-0.0.0.0	join.pornprosnetwork.com
-0.0.0.0	m.pornl.com
-0.0.0.0	m.txxx.com
-0.0.0.0	mediav.porn.com
-0.0.0.0	muchporn0.pump-cdn.com
-0.0.0.0	namethatpornstar.com
-0.0.0.0	pics.muchporn.com
-0.0.0.0	pics.porn300.com
-0.0.0.0	pics.porndroids.com
-0.0.0.0	pics.pornmarathon.com
-0.0.0.0	pics.serviporno.com
-0.0.0.0	pics.tribuporno.com
-0.0.0.0	platform.xxxy.dayukeji.com
-0.0.0.0	porn555.com
-0.0.0.0	porn555.taxispyvideo.com
-0.0.0.0	porn555.teenshomeporn.com
-0.0.0.0	porn555tn1.annettehavenporn.com
-0.0.0.0	porndroids0.pump-cdn.com
-0.0.0.0	porngifmag.com
-0.0.0.0	pornhub.com
-0.0.0.0	pornhublive.com
-0.0.0.0	pornj.com
-0.0.0.0	pornj1.gingerlynnallenclips.com
-0.0.0.0	pornj1.jamiegillisporn.com
-0.0.0.0	pornl.agat-tech.com
-0.0.0.0	pornl.com
-0.0.0.0	pornl.pornl.com
-0.0.0.0	pornlib.com
-0.0.0.0	pornmarathon0.pump-cdn.com
-0.0.0.0	pornoeye.com
-0.0.0.0	pornoreino.com
-0.0.0.0	pornprosnetwork.com
-0.0.0.0	pornstar-thumb.xhcdn.com
-0.0.0.0	puporn.com
-0.0.0.0	puporn1.joeysilveraporn.com
-0.0.0.0	puporn1.milfhole.com
-0.0.0.0	puporn2.milfhole.com
-0.0.0.0	qpornx.com
-0.0.0.0	rs.maxiporn.com
-0.0.0.0	rs.pornmarathon.com
-0.0.0.0	rt.bravoporn.com
-0.0.0.0	savxxx.com
-0.0.0.0	static-ca-cdn.eporner.com
-0.0.0.0	stest.xxxy.dayukeji.com
-0.0.0.0	st-n.adxxx.com
-0.0.0.0	theporndude.com
-0.0.0.0	thumbs-cdn.redtube.com
-0.0.0.0	tuberel1.brigittelahaieporn.com
-0.0.0.0	user.serviporno.com
-0.0.0.0	videospetardasxxx.com
-0.0.0.0	videosxxx.com
-0.0.0.0	videosxxxlospacks.blogspot.com
-0.0.0.0	vr.pornhat.com
-0.0.0.0	webpornblog.com
-0.0.0.0	www.apornovideo.com
-0.0.0.0	www.bingoporno.com
-0.0.0.0	www.bravoporn.com
-0.0.0.0	www.diverporno.com
-0.0.0.0	www.gonzoxxxmovies.com
-0.0.0.0	www.hotxxxweb.com
-0.0.0.0	www.hulaporn.com
-0.0.0.0	www.mileporn.com
-0.0.0.0	www.myfreexxxtube.com
-0.0.0.0	www.porn.com
-0.0.0.0	www.porndroids.com
-0.0.0.0	www.pornfuror.com
-0.0.0.0	www.porngray.com
-0.0.0.0	www.pornhat.com
-0.0.0.0	www.pornhub.com
-0.0.0.0	www.pornlib.com
-0.0.0.0	www.pornoreino.com
-0.0.0.0	www.redtube.com
-0.0.0.0	www.serviporno.com
-0.0.0.0	www.subirporno.com
-0.0.0.0	www.texporno.com
-0.0.0.0	www.vikiporn.com
-0.0.0.0	www.villaporno.com
-0.0.0.0	0.letmejerk.com
-0.0.0.0	106276.catchtheclick.com
-0.0.0.0	111122.shakingclicks.com
-0.0.0.0	126135.catchtheclick.com
-0.0.0.0	130756.catchtheclick.com
-0.0.0.0	www.videos4men.com
-0.0.0.0	www.xnxx.com
-0.0.0.0	lsvvxxxchoe
-0.0.0.0	cdn.pornostream.live
-0.0.0.0	cdn1.pornostream.live
-0.0.0.0	vddxxxbwkkup
-0.0.0.0	www.vecinitas.net
-0.0.0.0	www.xpaja.net
-0.0.0.0	www.zoophilist.net
-0.0.0.0	n.adxxx.info
-0.0.0.0	st.adxxx.info
-0.0.0.0	xxxbonka
-0.0.0.0	www.live-sex.mobi
-0.0.0.0	exgor.adult-xxx.mobi
-0.0.0.0	kingxxx.mobi
-0.0.0.0	vasxxx.mobi
-0.0.0.0	wvntuesxxxokc
-0.0.0.0	rajxxx.org
-0.0.0.0	www.porn00.org
-0.0.0.0	www1-minijuegosgratis-com.cdn.ampproject.org
-0.0.0.0	www2-minijuegosgratis-com.cdn.ampproject.org
-0.0.0.0	www3-minijuegosgratis-com.cdn.ampproject.org
-0.0.0.0	www4-minijuegosgratis-com.cdn.ampproject.org
-0.0.0.0	www5-minijuegosgratis-com.cdn.ampproject.org
-0.0.0.0	www-minijuegos-com.cdn.ampproject.org
-0.0.0.0	www.xvideos.red
-0.0.0.0	banbjjpgxxxoi
-0.0.0.0	xxxkadahrjxsl
-0.0.0.0	embed.badorno.xxx
-0.0.0.0	embed.veopornogratis.xxx
-0.0.0.0	guarrasdelporno.xxx
-0.0.0.0	i.soloporno.xxx
-0.0.0.0	ipornogratis.xxx
-0.0.0.0	ipornovideos.xxx
-0.0.0.0	ipornovideosx.xxx
-0.0.0.0	ipornox.xxx
-0.0.0.0	plx.mrvideospornogratis.xxx
-0.0.0.0	plx.sirpornogratis.xxx
-0.0.0.0	sirpornogratis.xxx
-0.0.0.0	static.mrvideospornogratis.xxx
-0.0.0.0	static.sirpornogratis.xxx
-0.0.0.0	static1.mrvideospornogratis.xxx
-0.0.0.0	static1.sirpornogratis.xxx
-0.0.0.0	static2.mrvideospornogratis.xxx
-0.0.0.0	static2.sirpornogratis.xxx
-0.0.0.0	static3.mrvideospornogratis.xxx
-0.0.0.0	static3.sirpornogratis.xxx
-0.0.0.0	veopornogratis.xxx
-0.0.0.0	videos.mrvideospornogratis.xxx
-0.0.0.0	videos.sirpornogratis.xxx
-0.0.0.0	www.mrvideospornogratis.xxx
-0.0.0.0	www.soloporno.xxx
+www.xxxcom.co
+whatsapp-cores.co
+ahhls.porn.es
+ahhttp.porn.es
+assets.porn.es
+dc1.porn.es
+m.perfectgirls.es
+www.perfectgirls.es
+perfectgirls.es
+m3u8.porn.es
+mahhttpr.porn.es
+mrfhahttpr.porn.es
+plx.porn.es
+porn.es
+rfhahls.porn.es
+rfhahttp.porn.es
+static-push.porn.es
+tahhttpr.porn.es
+trfhahttpr.porn.es
+videoassets.porn.es
+videos.porn.es
+www.porn.es
+m.porn.es
+static.lp.sexyadults.eu
+smart.tubeadvertising.eu
+www.xvideos.in
+yesporn.me
+videosxxxlospacks.blogspot.mx
+www.fotosxxx.mx
+www.videosxxxcaseros.com.mx
+www.borrachas.com.mx
+www.c-date.com.mx
+www.culioneros.com.mx
+www.emperijoyada.com.mx
+payment.android.fk.derkeg.ru
+sexporntube.us
+mp4porn.us
+pornocolombiano.com.ve
+uncensored.game
+click.dl-now.app
+click.trackmob.app
+sex-blast.date
+pornl1.kayparkersex.com
+images.sex.com
+mx.mundosexanuncio.com
+quick-sex.com
+screenshots.anysex.com
+sexbook.com
+static.mundosexanuncio.com
+static1.mundosexanuncio.com
+static2.mundosexanuncio.com
+tdsjsext3.com
+www.sexcoolture.com
+zoosexfarm.com
+1.letmejerk.com
+4118076059967.visporn.com
+4749581478536.visporn.com
+8302175136271.visporn.com
+8771344497799.visporn.com
+acdn.pornlib.com
+anyxxx.com
+bingoporno.com
+cdn1.pornaq.com
+cdn-d-img.pornhub.com
+cdne-st.redtubefiles.com
+cdnh1.porndoe.com
+cdn-img1.pornoeggs.com
+cdn-l.pornstarblognetwork.com
+cdnlw4.serviporno.com
+cdnlw5.serviporno.com
+cdnlw6.serviporno.com
+cdnlw8.serviporno.com
+cdnlw9.serviporno.com
+embed.redtube.com
+entrance1.xxxy.dayukeji.com
+entrance2.xxxy.dayukeji.com
+es.bravoporn.com
+es.pornhub.com
+es.pornhubpremium.com
+es.redtube.com
+foreign.xxxy.dayukeji.com
+free3dadultgames.com
+hubt.pornhub.com
+i.canalporno.com
+i.diverporno.com
+i.hulaporn.com
+i.mileporn.com
+i.porn300.com
+i.porndroids.com
+i.pornfuror.com
+i.pornglee.com
+i.porngray.com
+i.texporno.com
+i.tribuporno.com
+i.villaporno.com
+iframe2.adxxx.com
+images.galleries.pornpros.com
+img4.subirporno.com
+imggen.eporner.com
+ipornia.com
+ipornia1.johnholmespenis.com
+ipornia1.johnleslieporn.com
+join.pornprosnetwork.com
+m.pornl.com
+www.pornl.com
+pornl.com
+m.txxx.com
+www.txxx.com
+txxx.com
+mediav.porn.com
+muchporn0.pump-cdn.com
+namethatpornstar.com
+pics.muchporn.com
+pics.porn300.com
+pics.porndroids.com
+pics.pornmarathon.com
+pics.serviporno.com
+pics.tribuporno.com
+platform.xxxy.dayukeji.com
+porn555.com
+porn555.taxispyvideo.com
+porn555.teenshomeporn.com
+porn555tn1.annettehavenporn.com
+porndroids0.pump-cdn.com
+porngifmag.com
+pornhub.com
+pornhublive.com
+pornj.com
+pornj1.gingerlynnallenclips.com
+pornj1.jamiegillisporn.com
+pornl.agat-tech.com
+pornl.com
+pornl.pornl.com
+pornlib.com
+pornmarathon0.pump-cdn.com
+pornoeye.com
+pornoreino.com
+pornprosnetwork.com
+pornstar-thumb.xhcdn.com
+puporn.com
+puporn1.joeysilveraporn.com
+puporn1.milfhole.com
+puporn2.milfhole.com
+qpornx.com
+rs.maxiporn.com
+rs.pornmarathon.com
+rt.bravoporn.com
+savxxx.com
+static-ca-cdn.eporner.com
+stest.xxxy.dayukeji.com
+st-n.adxxx.com
+theporndude.com
+thumbs-cdn.redtube.com
+tuberel1.brigittelahaieporn.com
+user.serviporno.com
+videospetardasxxx.com
+videosxxx.com
+videosxxxlospacks.blogspot.com
+vr.pornhat.com
+webpornblog.com
+www.apornovideo.com
+www.bingoporno.com
+www.bravoporn.com
+www.diverporno.com
+www.gonzoxxxmovies.com
+www.hotxxxweb.com
+www.hulaporn.com
+www.mileporn.com
+www.myfreexxxtube.com
+www.porn.com
+www.porndroids.com
+www.pornfuror.com
+www.porngray.com
+www.pornhat.com
+www.pornhub.com
+www.pornlib.com
+www.pornoreino.com
+www.redtube.com
+www.serviporno.com
+www.subirporno.com
+www.texporno.com
+www.vikiporn.com
+www.villaporno.com
+0.letmejerk.com
+106276.catchtheclick.com
+111122.shakingclicks.com
+126135.catchtheclick.com
+130756.catchtheclick.com
+www.videos4men.com
+www.xnxx.com
+cdn.pornostream.live
+cdn1.pornostream.live
+www.vecinitas.net
+www.xpaja.net
+www.zoophilist.net
+n.adxxx.info
+st.adxxx.info
+www.adxxx.info
+www.live-sex.mobi
+exgor.adult-xxx.mobi
+kingxxx.mobi
+vasxxx.mobi
+rajxxx.org
+www.porn00.org
+www1-minijuegosgratis-com.cdn.ampproject.org
+www2-minijuegosgratis-com.cdn.ampproject.org
+www3-minijuegosgratis-com.cdn.ampproject.org
+www4-minijuegosgratis-com.cdn.ampproject.org
+www5-minijuegosgratis-com.cdn.ampproject.org
+www-minijuegos-com.cdn.ampproject.org
+www.xvideos.red
+embed.badorno.xxx
+embed.veopornogratis.xxx
+guarrasdelporno.xxx
+i.soloporno.xxx
+ipornogratis.xxx
+ipornovideos.xxx
+ipornovideosx.xxx
+ipornox.xxx
+plx.mrvideospornogratis.xxx
+plx.sirpornogratis.xxx
+sirpornogratis.xxx
+static.mrvideospornogratis.xxx
+static.sirpornogratis.xxx
+static1.mrvideospornogratis.xxx
+static1.sirpornogratis.xxx
+static2.mrvideospornogratis.xxx
+static2.sirpornogratis.xxx
+static3.mrvideospornogratis.xxx
+static3.sirpornogratis.xxx
+veopornogratis.xxx
+videos.mrvideospornogratis.xxx
+videos.sirpornogratis.xxx
+www.mrvideospornogratis.xxx
+www.soloporno.xxx
