@@ -1,11 +1,17 @@
 
-# to get list from pihole and edit to be able to put it on github
-connect to pi
-cd /etc/pihole/
-sudo cp gravity.list ~/
-scp gravity
-replace 192.168.x.x for 127.0.0.1
-save hosts and upload
+# create files
+cat wakanda termina barsoom pandora| sort > exegol
+rm wakanda termina pandora barsoom
+uniq -u exegol > hosts_excluded.
+uniq exegol > pandora
+mv hosts_excluded. hosts_excluded.02062021
+cat hosts_excluded.* | sort | uniq > hosts_excluded.02062021-2
+wc -l pandora
+mv hosts_excluded.02062021-2 hosts_excluded.02062021
+split -l 524902 pandora
+cp hosts_excluded.02062021 /data/
+mv xa* /data/
+
 
 # to get updates from github to local branch
 git fetch upstream
@@ -13,7 +19,7 @@ git checkout master
 git merge upstream/master
 
 # to push updates from local branch to github
-git add filename
-git status 
-git commit -m "comment regarding commit" filename
-git push -u origin master
+git add hosts host_002 host_003 host_004 hosts_excluded
+git status
+git commit -m "mmddyyyy"
+git push origin master
